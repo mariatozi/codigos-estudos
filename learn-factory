@@ -1,0 +1,17 @@
+function createBook(title, author, pages) {
+    const book = {
+        bookTitle: title,
+        bookAuthor: author,
+        bookPages: pages,
+        printBook: function() {
+            console.log('printing...')
+        }
+    }
+    return book
+}
+
+const book1 = createBook('Titulo do Livro', 'Autor do Livro', 306)
+const book2 = createBook('Livro 2', 'Livro', 300)
+
+console.log(book1) 
+console.log(book2)
