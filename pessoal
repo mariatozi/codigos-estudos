@@ -1,0 +1,58 @@
+function pedidoNamoro() {
+    let resposta = prompt("Quer namorar comigo?");
+    if (resposta.toLowerCase() === "sim") {
+      alert("Yay! Eu estou muito animado!");
+    } else {
+      alert("Tudo bem, talvez a próxima vez.");
+    }
+  }
+  
+  pedidoNamoro();
+  
+  <!DOCTYPE html>
+<html>
+  <head>
+    <title>Pedido de Namoro</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"
+  </head>
+  <body>
+    <button onclick="pedidoNamoro()">Fazer o Pedido</button>
+
+    <script>
+      function pedidoNamoro() {
+        let resposta = prompt("Quer namorar comigo?");
+        if (resposta.toLowerCase() === "sim") {
+          alert("Graças a Deus");
+        } else {
+          alert("Você não tem essa opção");
+        }
+      }
+    </script>
+  </body>
+</html>
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lavender;
+  }
+  
+  button {
+    padding: 20px 40px;
+    font-size: 18px;
+    background-color: pink;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  button:hover {
+    transform: translateY(-5px);
+    box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.3);
+  }
+  
