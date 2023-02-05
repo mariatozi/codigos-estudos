@@ -1,14 +1,16 @@
-
+// criação das variaveis e declaração elas
 const colors = ['Red', 'Black', 'White', 'Blue', 'Yellow', 'Purple', 'Green']
 const btn = document.getElementById('btn')
 const color = document.querySelector('.color')
 
+// no Click, oque deve acontecer nas ações do click e a aplicação da cor ao background
 btn.addEventListener('click', function() {
     const randomColor = getRandomColor()
-    document.body.style.background = colors[randomColor]
+    document.body.style.background = colors[randomColor] // aplicando a cor ao background
     color.textContent = colors[randomColor]
 })
 
+// parte para gerar os numeros randomicos
 function getRandomColor () {
     return Math.floor(Math.random() * colors.length)
 }
