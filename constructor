@@ -4,6 +4,6 @@ function createBook(title, author, pages) {
     this.bookPages = pages
 }
 
-const book1 = new  createBook('Titulo do Livro', 'Autor do Livro', 306)
+const book1 = new createBook('Titulo do Livro', 'Autor do Livro', 306)
 
 console.log(book1) 
