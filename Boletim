@@ -1,0 +1,713 @@
+[
+    {
+        "Aluno": "Ana Silva",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 8.7",
+        "Telefone": " (123) 456-7890",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Carlos Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 7.5",
+        "Telefone": " (987) 654-3210",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Julia Pereira",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 9.2",
+        "Telefone": " (555) 123-4567",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Lucas Oliveira",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 6.8",
+        "Telefone": " (789) 012-3456",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Maria Lima",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 8.9",
+        "Telefone": " (321) 987-6543",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Pedro Costa",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 7.2",
+        "Telefone": " (234) 567-8901",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Raquel Souza",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 9.8",
+        "Telefone": " (678) 901-2345",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "João Oliveira",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 2.3",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Mariana Costa",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 1.5",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rodrigo Santos",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 3.2",
+        "Telefone": " (777) 888-9999",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Camila Lima",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 4.6",
+        "Telefone": " (000) 111-2222",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Bruno Pereira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 5.2",
+        "Telefone": " (333) 444-5555",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Luana Almeida",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 2.8",
+        "Telefone": " (666) 777-8888",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Fernando Silva",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 1.1",
+        "Telefone": " (999) 000-1111",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Isabela Lima",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 8.0",
+        "Telefone": " (222) 333-4444",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Gabriel Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 7.9",
+        "Telefone": " (555) 666-7777",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Isabela Lima",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 8.7",
+        "Telefone": " (888) 999-0000",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Eduardo Costa",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 7.1",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Thais Oliveira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 9.0",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rafaela Pereira",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 7.8",
+        "Telefone": " (777) 888-9999",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Ana Silva",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 8.7",
+        "Telefone": " (123) 456-7890",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Carlos Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 7.5",
+        "Telefone": " (987) 654-3210",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Julia Pereira",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 9.2",
+        "Telefone": " (555) 123-4567",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Lucas Oliveira",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 6.8",
+        "Telefone": " (789) 012-3456",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Maria Lima",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 8.9",
+        "Telefone": " (321) 987-6543",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Pedro Costa",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 7.2",
+        "Telefone": " (234) 567-8901",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Raquel Souza",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 9.8",
+        "Telefone": " (678) 901-2345",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "João Oliveira",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 2.3",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Mariana Costa",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 1.5",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rodrigo Santos",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 3.2",
+        "Telefone": " (777) 888-9999",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Camila Lima",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 4.6",
+        "Telefone": " (000) 111-2222",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Gustavo Pereira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 5.2",
+        "Telefone": " (333) 444-5555",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Renata Almeida",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 2.8",
+        "Telefone": " (666) 777-8888",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Diego Silva",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 1.1",
+        "Telefone": " (999) 000-1111",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Isabela Lima",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 8.0",
+        "Telefone": " (222) 333-4444",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Clara Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 2.9",
+        "Telefone": " (555) 666-7777",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Gabriel Lima",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 4.7",
+        "Telefone": " (888) 999-0000",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Leticia Costa",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 2.1",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rafael Oliveira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 5.0",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Ana Silva",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 8.7",
+        "Telefone": " (123) 456-7890",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Carlos Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 7.5",
+        "Telefone": " (987) 654-3210",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Julia Pereira",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 9.2",
+        "Telefone": " (555) 123-4567",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Lucas Oliveira",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 6.8",
+        "Telefone": " (789) 012-3456",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Maria Lima",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 8.9",
+        "Telefone": " (321) 987-6543",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Pedro Costa",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 7.2",
+        "Telefone": " (234) 567-8901",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Raquel Souza",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 9.8",
+        "Telefone": " (678) 901-2345",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "João Oliveira",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Pereira",
+        "Série": " 9º ano",
+        "Nota": " 7.8",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Mariana Costa",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 8.5",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rodrigo Santos",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 9.5",
+        "Telefone": " (777) 888-9999",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Camila Lima",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 6.9",
+        "Telefone": " (000) 111-2222",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Bruno Pereira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 7.2",
+        "Telefone": " (333) 444-5555",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Luana Almeida",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 8.3",
+        "Telefone": " (666) 777-8888",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Fernando Silva",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 9.1",
+        "Telefone": " (999) 000-1111",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Amanda Souza",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Pereira",
+        "Série": " 9º ano",
+        "Nota": " 8.0",
+        "Telefone": " (222) 333-4444",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Gabriel Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 7.9",
+        "Telefone": " (555) 666-7777",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Isabela Lima",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 8.7",
+        "Telefone": " (888) 999-0000",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Eduardo Costa",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 7.1",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Thais Oliveira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 9.0",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rafaela Pereira",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 7.8",
+        "Telefone": " (777) 888-9999",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Ana Silva",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 8.7",
+        "Telefone": " (123) 456-7890",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Carlos Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 7.5",
+        "Telefone": " (987) 654-3210",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Julia Pereira",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 9.2",
+        "Telefone": " (555) 123-4567",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Lucas Oliveira",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 6.8",
+        "Telefone": " (789) 012-3456",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Maria Lima",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 8.9",
+        "Telefone": " (321) 987-6543",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Pedro Costa",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 7.2",
+        "Telefone": " (234) 567-8901",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Raquel Souza",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 9.8",
+        "Telefone": " (678) 901-2345",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "João Oliveira",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 7.8",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Mariana Costa",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 8.5",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rodrigo Santos",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 9.5",
+        "Telefone": " (777) 888-9999",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Camila Lima",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 6.9",
+        "Telefone": " (000) 111-2222",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Bruno Pereira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 7.2",
+        "Telefone": " (333) 444-5555",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Luana Almeida",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 8.3",
+        "Telefone": " (666) 777-8888",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Fernando Silva",
+        "Matéria": " Biologia",
+        "Professor": " Prof. Lima",
+        "Série": " 9º ano",
+        "Nota": " 9.1",
+        "Telefone": " (999) 000-1111",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Amanda Souza",
+        "Matéria": " Matemática",
+        "Professor": " Prof. Oliveira",
+        "Série": " 9º ano",
+        "Nota": " 8.0",
+        "Telefone": " (222) 333-4444",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Gabriel Santos",
+        "Matéria": " História",
+        "Professor": " Prof. Garcia",
+        "Série": " 8º ano",
+        "Nota": " 7.9",
+        "Telefone": " (555) 666-7777",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Isabela Lima",
+        "Matéria": " Inglês",
+        "Professor": " Prof. Martins",
+        "Série": " 10º ano",
+        "Nota": " 8.7",
+        "Telefone": " (888) 999-0000",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Eduardo Costa",
+        "Matéria": " Ciências",
+        "Professor": " Prof. Silva",
+        "Série": " 8º ano",
+        "Nota": " 7.1",
+        "Telefone": " (111) 222-3333",
+        "Sexo": " Masculino"
+    },
+    {
+        "Aluno": "Thais Oliveira",
+        "Matéria": " Física",
+        "Professor": " Prof. Almeida",
+        "Série": " 11º ano",
+        "Nota": " 9.0",
+        "Telefone": " (444) 555-6666",
+        "Sexo": " Feminino"
+    },
+    {
+        "Aluno": "Rafaela Pereira",
+        "Matéria": " Química",
+        "Professor": " Prof. Santos",
+        "Série": " 10º ano",
+        "Nota": " 7.8",
+        "Telefone": " (777) 888-9999",
+        "Sexo": " Feminino"
+    }
+]
