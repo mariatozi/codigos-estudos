@@ -1,0 +1,722 @@
+[
+    {
+        "Título": "The Shawshank Redemption",
+        "Diretor": "Frank Darabont",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "2017",
+        "Duração": "168",
+        "Avaliação": "7.9",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "The Godfather",
+        "Diretor": "Francis Ford Coppola",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2013",
+        "Duração": "82",
+        "Avaliação": "3.5",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "The Dark Knight",
+        "Diretor": "Christopher Nolan",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2008",
+        "Duração": "121",
+        "Avaliação": "5.9",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "The Godfather Part II",
+        "Diretor": "Francis Ford Coppola",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2006",
+        "Duração": "96",
+        "Avaliação": "4.6",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "12 Angry Men",
+        "Diretor": "Sidney Lumet",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2022",
+        "Duração": "131",
+        "Avaliação": "2.2",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Schindler's List",
+        "Diretor": "Steven Spielberg",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2007",
+        "Duração": "162",
+        "Avaliação": "2.1",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "The Lord of the Rings: The Return of the King",
+        "Diretor": "Peter Jackson",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "1983",
+        "Duração": "137",
+        "Avaliação": "8.7",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Pulp Fiction",
+        "Diretor": "Quentin Tarantino",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "2002",
+        "Duração": "117",
+        "Avaliação": "6.7",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "The Good, the Bad and the Ugly",
+        "Diretor": "Sergio Leone",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2005",
+        "Duração": "123",
+        "Avaliação": "1.9",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "Fight Club",
+        "Diretor": "David Fincher",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2016",
+        "Duração": "94",
+        "Avaliação": "4.4",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "Forrest Gump",
+        "Diretor": "Robert Zemeckis",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "1987",
+        "Duração": "98",
+        "Avaliação": "4.7",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "Inception",
+        "Diretor": "Christopher Nolan",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "1984",
+        "Duração": "129",
+        "Avaliação": "3.2",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "The Lord of the Rings: The Fellowship of the Ring",
+        "Diretor": "Peter Jackson",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "1985",
+        "Duração": "141",
+        "Avaliação": "3.7",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "Star Wars: Episode V - The Empire Strikes Back",
+        "Diretor": "George Lucas",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2012",
+        "Duração": "134",
+        "Avaliação": "3.7",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "The Lord of the Rings: The Two Towers",
+        "Diretor": "Peter Jackson",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "1992",
+        "Duração": "149",
+        "Avaliação": "4.9",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "The Matrix",
+        "Diretor": "Lana Wachowski, Lilly Wachowski",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "2001",
+        "Duração": "98",
+        "Avaliação": "8.1",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "Goodfellas",
+        "Diretor": "Martin Scorsese",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "1981",
+        "Duração": "133",
+        "Avaliação": "2",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "One Flew Over the Cuckoo's Nest",
+        "Diretor": "Milos Forman",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "1993",
+        "Duração": "153",
+        "Avaliação": "2.3",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Se7en",
+        "Diretor": "David Fincher",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "1981",
+        "Duração": "124",
+        "Avaliação": "7.4",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "City of God",
+        "Diretor": "Fernando Meirelles, Kátia Lund",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2016",
+        "Duração": "172",
+        "Avaliação": "4.4",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "Seven Samurai",
+        "Diretor": "Akira Kurosawa",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "1989",
+        "Duração": "170",
+        "Avaliação": "4.4",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "It's a Wonderful Life",
+        "Diretor": "Frank Capra",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2004",
+        "Duração": "122",
+        "Avaliação": "8.6",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Life Is Beautiful",
+        "Diretor": "Roberto Benigni",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "2012",
+        "Duração": "147",
+        "Avaliação": "6.7",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "The Silence of the Lambs",
+        "Diretor": "Jonathan Demme",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "1987",
+        "Duração": "87",
+        "Avaliação": "7.1",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Saving Private Ryan",
+        "Diretor": "Steven Spielberg",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "2023",
+        "Duração": "135",
+        "Avaliação": "5.2",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Coco",
+        "Diretor": "Lee Unkrich",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2003",
+        "Duração": "87",
+        "Avaliação": "9",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "Spirited Away",
+        "Diretor": "Hayao Miyazaki",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "1997",
+        "Duração": "159",
+        "Avaliação": "9",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "The Green Mile",
+        "Diretor": "Frank Darabont",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2009",
+        "Duração": "126",
+        "Avaliação": "6.3",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "Parasite",
+        "Diretor": "Bong Joon Ho",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2020",
+        "Duração": "178",
+        "Avaliação": "3.8",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "Interstellar",
+        "Diretor": "Christopher Nolan",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2017",
+        "Duração": "178",
+        "Avaliação": "7.1",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Léon: The Professional",
+        "Diretor": "Luc Besson",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "1985",
+        "Duração": "92",
+        "Avaliação": "9.1",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "The Usual Suspects",
+        "Diretor": "Bryan Singer",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "2003",
+        "Duração": "96",
+        "Avaliação": "3.9",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Harakiri",
+        "Diretor": "Masaki Kobayashi",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2001",
+        "Duração": "103",
+        "Avaliação": "5.4",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "The Lion King",
+        "Diretor": "Roger Allers, Rob Minkoff",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2009",
+        "Duração": "146",
+        "Avaliação": "1.3",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "Back to the Future",
+        "Diretor": "Robert Zemeckis",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "1990",
+        "Duração": "95",
+        "Avaliação": "9.2",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "The Pianist",
+        "Diretor": "Roman Polanski",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2007",
+        "Duração": "95",
+        "Avaliação": "4.9",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "Terminator 2: Judgment Day",
+        "Diretor": "James Cameron",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "1998",
+        "Duração": "145",
+        "Avaliação": "7",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "American History X",
+        "Diretor": "Tony Kaye",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2019",
+        "Duração": "136",
+        "Avaliação": "8.8",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "Modern Times",
+        "Diretor": "Charles Chaplin",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "1986",
+        "Duração": "159",
+        "Avaliação": "6.9",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "Psycho",
+        "Diretor": "Alfred Hitchcock",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2004",
+        "Duração": "162",
+        "Avaliação": "4.2",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "Gladiator",
+        "Diretor": "Ridley Scott",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "2020",
+        "Duração": "104",
+        "Avaliação": "1.2",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "City Lights",
+        "Diretor": "Charles Chaplin",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "1982",
+        "Duração": "143",
+        "Avaliação": "4.9",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Whiplash",
+        "Diretor": "Damien Chazelle",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2015",
+        "Duração": "138",
+        "Avaliação": "6.1",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "The Departed",
+        "Diretor": "Martin Scorsese",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "2011",
+        "Duração": "113",
+        "Avaliação": "9.5",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "The Prestige",
+        "Diretor": "Christopher Nolan",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "2001",
+        "Duração": "137",
+        "Avaliação": "3.8",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "The Shawshank Redemption",
+        "Diretor": "Frank Darabont",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "1992",
+        "Duração": "104",
+        "Avaliação": "5.3",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "The Godfather",
+        "Diretor": "Francis Ford Coppola",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "2014",
+        "Duração": "137",
+        "Avaliação": "7.2",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "The Dark Knight",
+        "Diretor": "Christopher Nolan",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2015",
+        "Duração": "117",
+        "Avaliação": "1.3",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "The Godfather Part II",
+        "Diretor": "Francis Ford Coppola",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "1999",
+        "Duração": "157",
+        "Avaliação": "7.9",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "12 Angry Men",
+        "Diretor": "Sidney Lumet",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "1987",
+        "Duração": "161",
+        "Avaliação": "1.6",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Schindler's List",
+        "Diretor": "Steven Spielberg",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2002",
+        "Duração": "103",
+        "Avaliação": "8.7",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "The Lord of the Rings: The Return of the King",
+        "Diretor": "Peter Jackson",
+        "Gênero": "Drama",
+        "Ano de Lançamento": "1989",
+        "Duração": "169",
+        "Avaliação": "6.9",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "Pulp Fiction",
+        "Diretor": "Quentin Tarantino",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2016",
+        "Duração": "136",
+        "Avaliação": "7.9",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "The Good, the Bad and the Ugly",
+        "Diretor": "Sergio Leone",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2019",
+        "Duração": "134",
+        "Avaliação": "9.6",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "Fight Club",
+        "Diretor": "David Fincher",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2016",
+        "Duração": "132",
+        "Avaliação": "9.2",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "Forrest Gump",
+        "Diretor": "Robert Zemeckis",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "1992",
+        "Duração": "102",
+        "Avaliação": "1.3",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "Inception",
+        "Diretor": "Christopher Nolan",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "1999",
+        "Duração": "93",
+        "Avaliação": "6.8",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "The Lord of the Rings: The Fellowship of the Ring",
+        "Diretor": "Peter Jackson",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "2020",
+        "Duração": "142",
+        "Avaliação": "9.6",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "Star Wars: Episode V - The Empire Strikes Back",
+        "Diretor": "George Lucas",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2008",
+        "Duração": "143",
+        "Avaliação": "1.7",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "The Lord of the Rings: The Two Towers",
+        "Diretor": "Peter Jackson",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2012",
+        "Duração": "134",
+        "Avaliação": "6.2",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "The Matrix",
+        "Diretor": "Lana Wachowski, Lilly Wachowski",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "1986",
+        "Duração": "125",
+        "Avaliação": "6.4",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Goodfellas",
+        "Diretor": "Martin Scorsese",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "1988",
+        "Duração": "101",
+        "Avaliação": "4",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "One Flew Over the Cuckoo's Nest",
+        "Diretor": "Milos Forman",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2019",
+        "Duração": "119",
+        "Avaliação": "7.1",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Se7en",
+        "Diretor": "David Fincher",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "2007",
+        "Duração": "118",
+        "Avaliação": "2.9",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "City of God",
+        "Diretor": "Fernando Meirelles, Kátia Lund",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "2008",
+        "Duração": "172",
+        "Avaliação": "1.2",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "Seven Samurai",
+        "Diretor": "Akira Kurosawa",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "2023",
+        "Duração": "153",
+        "Avaliação": "6.5",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "It's a Wonderful Life",
+        "Diretor": "Frank Capra",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2015",
+        "Duração": "89",
+        "Avaliação": "7.2",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Life Is Beautiful",
+        "Diretor": "Roberto Benigni",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "2023",
+        "Duração": "112",
+        "Avaliação": "6.4",
+        "País de Origem": "EUA"
+    },
+    {
+        "Título": "The Silence of the Lambs",
+        "Diretor": "Jonathan Demme",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "1984",
+        "Duração": "170",
+        "Avaliação": "6.2",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "Saving Private Ryan",
+        "Diretor": "Steven Spielberg",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "2009",
+        "Duração": "165",
+        "Avaliação": "7.6",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Coco",
+        "Diretor": "Lee Unkrich",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "1980",
+        "Duração": "110",
+        "Avaliação": "1.3",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Spirited Away",
+        "Diretor": "Hayao Miyazaki",
+        "Gênero": "Terror",
+        "Ano de Lançamento": "1986",
+        "Duração": "138",
+        "Avaliação": "9.2",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "The Green Mile",
+        "Diretor": "Frank Darabont",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "1993",
+        "Duração": "110",
+        "Avaliação": "7",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Parasite",
+        "Diretor": "Bong Joon Ho",
+        "Gênero": "Ficção Científica",
+        "Ano de Lançamento": "2000",
+        "Duração": "136",
+        "Avaliação": "4.7",
+        "País de Origem": "Japão"
+    },
+    {
+        "Título": "Interstellar",
+        "Diretor": "Christopher Nolan",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2017",
+        "Duração": "169",
+        "Avaliação": "8.2",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "Léon: The Professional",
+        "Diretor": "Luc Besson",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "1988",
+        "Duração": "88",
+        "Avaliação": "6.7",
+        "País de Origem": "França"
+    },
+    {
+        "Título": "The Usual Suspects",
+        "Diretor": "Bryan Singer",
+        "Gênero": "Comédia",
+        "Ano de Lançamento": "1991",
+        "Duração": "83",
+        "Avaliação": "7",
+        "País de Origem": "Alemanha"
+    },
+    {
+        "Título": "Harakiri",
+        "Diretor": "Masaki Kobayashi",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "1997",
+        "Duração": "95",
+        "Avaliação": "9.8",
+        "País de Origem": "Brasil"
+    },
+    {
+        "Título": "The Lion King",
+        "Diretor": "Roger Allers, Rob Minkoff",
+        "Gênero": "Ação",
+        "Ano de Lançamento": "2008",
+        "Duração": "128",
+        "Avaliação": "7.9",
+        "País de Origem": "Reino Unido"
+    },
+    {
+        "Título": "Back to the Future",
+        "Diretor": "Robert Zemeckis",
+        "Gênero": "Romance",
+        "Ano de Lançamento": "2006",
+        "Duração": "85",
+        "Avaliação": "5.3",
+        "País de Origem": "França"
+    }
+]
